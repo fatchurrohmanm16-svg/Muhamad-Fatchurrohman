@@ -1,0 +1,6 @@
+{
+  "name": "E-SARPRAS SDIT Darussalam Bayan",
+  "description": "Sistem Informasi Sarana dan Prasarana Sekolah SDIT Darussalam Bayan. Mengelola aset sekolah mulai dari pengadaan, inventarisasi, mutasi, peminjaman, pemeliharaan, stock opname hingga laporan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
